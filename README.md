@@ -1,2 +1,2 @@
-# DemoBot2025
-Based on GRRBase, this project runs the swerve based demobot.
+# DemoBot
+FRC Team 340's code for our demo robot.
